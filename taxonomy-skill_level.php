@@ -1,0 +1,1 @@
+<?php$taxonomy_pre_heading = __('Recipe Skill Level: ', 'FoodRecipe');$taxonomy_name = 'skill_level';get_template_part('inc/common-taxonomy');?>

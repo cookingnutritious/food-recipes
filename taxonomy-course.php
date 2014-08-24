@@ -1,0 +1,1 @@
+<?php$taxonomy_pre_heading = __('Recipes With Course: ', 'FoodRecipe');$taxonomy_name = 'course';get_template_part('inc/common-taxonomy');?>

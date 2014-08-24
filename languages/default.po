@@ -1,0 +1,1905 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Food Recipes\n"
+"POT-Creation-Date: 2014-06-20 09:46+0500\n"
+"PO-Revision-Date: 2014-06-20 09:46+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:1
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:1
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: archive.php:1
+msgid "All posts in "
+msgstr ""
+
+#: archive.php:1
+msgid "All Recipes and Posts Tagged "
+msgstr ""
+
+#: archive.php:1
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:1
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: archive.php:1 author.php:1
+msgid "All Recipes and Posts by"
+msgstr ""
+
+#: archive.php:1
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:1 author.php:1
+msgid "No Recipe or Post Data Found"
+msgstr ""
+
+#: author.php:1
+msgid "Chef"
+msgstr ""
+
+#: comments.php:1
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:1
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:1
+msgid "Comment <span>(0)</span>"
+msgstr ""
+
+#: comments.php:1
+msgid "Comment <span>(1)</span>"
+msgstr ""
+
+#: comments.php:1
+msgid "Comments <span>(%)</span>"
+msgstr ""
+
+#: comments.php:1
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:1 functions/comment-callback.php:1
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: config-meta-boxes.php:42
+msgid "Recipe Information"
+msgstr ""
+
+#: config-meta-boxes.php:47 template-recipe-submit.php:1
+msgid "Video Based Recipe"
+msgstr ""
+
+#: config-meta-boxes.php:48
+msgid ""
+"<strong>A Video Based recipe does not display attached images and only "
+"display a video at top.</strong>"
+msgstr ""
+
+#: config-meta-boxes.php:51
+msgid "Yes "
+msgstr ""
+
+#: config-meta-boxes.php:51
+msgid "No "
+msgstr ""
+
+#: config-meta-boxes.php:55 template-recipe-submit.php:1
+msgid "Video Embed Code"
+msgstr ""
+
+#: config-meta-boxes.php:57
+msgid ""
+"Provide the video embed code and <strong>Modify the width attribute to 575px "
+"and height attribute to 323px. 16:9 Ratio</strong>"
+msgstr ""
+
+#: config-meta-boxes.php:63
+msgid "Attach Images"
+msgstr ""
+
+#: config-meta-boxes.php:64
+msgid ""
+"Upload recipe images here. <strong>Minimum required size for an image is "
+"575px in width and 262px in height.</strong> These Images will appear in "
+"slider on recipe page.<strong> Please do not forget to provide featured "
+"image for this recipe using <em>Featured Image</em> metabox in right "
+"sidebar</strong> as featured image will be displayed on homepage, recipe "
+"listings and widgets. "
+msgstr ""
+
+#: config-meta-boxes.php:69 template-recipe-submit.php:1
+msgid "Yield"
+msgstr ""
+
+#: config-meta-boxes.php:71
+msgid "How much/many does this recipe produce?"
+msgstr ""
+
+#: config-meta-boxes.php:77 template-recipe-submit.php:1
+msgid "Servings"
+msgstr ""
+
+#: config-meta-boxes.php:79
+msgid "How many servings?"
+msgstr ""
+
+#: config-meta-boxes.php:85 template-recipe-submit.php:1
+msgid "Prep Time"
+msgstr ""
+
+#: config-meta-boxes.php:87 config-meta-boxes.php:95 config-meta-boxes.php:103
+msgid "How Many Minutes ?  Minutes Above 60 will be displayed in hours."
+msgstr ""
+
+#: config-meta-boxes.php:93 template-recipe-submit.php:1
+msgid "Cook Time"
+msgstr ""
+
+#: config-meta-boxes.php:101 template-recipe-submit.php:1
+msgid "Ready In"
+msgstr ""
+
+#: config-meta-boxes.php:109 functions/shortcodes/typography.php:22
+#: template-recipe-submit.php:1
+msgid "Ingredients"
+msgstr ""
+
+#: config-meta-boxes.php:111
+msgid ""
+"You can add list of ingredients here. Use <strong>+ button</strong> on the "
+"right to add new ingredient. <strong>To display the list you need to write "
+"[ingredients] short code in your content editor.</strong>"
+msgstr ""
+
+#: config-meta-boxes.php:118
+msgid "Method Steps"
+msgstr ""
+
+#: config-meta-boxes.php:120
+msgid ""
+"You can add list of recipe method steps here. Use <strong>+ button</strong> "
+"on the right to add new step. <strong>To display the list you need to write "
+"[method] short code in your content editor.</strong>"
+msgstr ""
+
+#: config-meta-boxes.php:126
+msgid "Nutrient Name"
+msgstr ""
+
+#: config-meta-boxes.php:128
+msgid ""
+"Enter the name of nutritional Item Name. Use <strong>+ button</strong> on "
+"the right to add new Nutrient Name"
+msgstr ""
+
+#: config-meta-boxes.php:134
+msgid "Mass"
+msgstr ""
+
+#: config-meta-boxes.php:136
+msgid ""
+"Enter Nutrient Mass. Use <strong>+ button</strong> on the right to add new "
+"Mass Value."
+msgstr ""
+
+#: footer.php:1 header.php:1
+msgid "Search for"
+msgstr ""
+
+#: footer.php:1 template-contact.php:1
+msgid "Name here"
+msgstr ""
+
+#: footer.php:1 template-contact.php:1
+msgid "Email here"
+msgstr ""
+
+#: footer.php:1 template-contact.php:1
+msgid "Message"
+msgstr ""
+
+#: footer.php:1
+msgid "Type your comments here"
+msgstr ""
+
+#: full-width.php:1 inc/standard-post.php:4 page.php:1 single.php:1
+#: template-recipe-submit.php:1
+msgid "0 Comments"
+msgstr ""
+
+#: full-width.php:1 inc/standard-post.php:4 page.php:1 single.php:1
+#: template-recipe-submit.php:1
+msgid "1 Comment"
+msgstr ""
+
+#: full-width.php:1 inc/standard-post.php:4 page.php:1 single.php:1
+#: template-recipe-submit.php:1
+msgid "% Comments"
+msgstr ""
+
+#: full-width.php:1
+msgid "Last Update: "
+msgstr ""
+
+#: functions.php:70
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:71
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:296
+msgid "h"
+msgstr ""
+
+#: functions.php:298
+msgid "m"
+msgstr ""
+
+#: functions.php:567 inc/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:568 inc/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:569 inc/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:570
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:571 inc/class-tgm-plugin-activation.php:159
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:572 inc/class-tgm-plugin-activation.php:160
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:573 inc/class-tgm-plugin-activation.php:161
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:574 inc/class-tgm-plugin-activation.php:162
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:575 inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:576 inc/class-tgm-plugin-activation.php:164
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:577 inc/class-tgm-plugin-activation.php:165
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:578 inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:579 inc/class-tgm-plugin-activation.php:167
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:580 inc/class-tgm-plugin-activation.php:168
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:581 inc/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:582 inc/class-tgm-plugin-activation.php:171
+#: inc/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:583
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/author-addition.php:1
+msgid "User Designation"
+msgstr ""
+
+#: functions/author-addition.php:1
+msgid "Twitter URL"
+msgstr ""
+
+#: functions/author-addition.php:1
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/author-addition.php:1
+msgid "Google URL"
+msgstr ""
+
+#: functions/author-addition.php:1
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions/author-addition.php:1
+msgid "YouTube URL"
+msgstr ""
+
+#: functions/author-addition.php:1
+msgid "Photo URL"
+msgstr ""
+
+#: functions/comment-callback.php:1
+msgid "posted by "
+msgstr ""
+
+#: functions/comment-callback.php:1
+msgid " on"
+msgstr ""
+
+#: functions/comment-callback.php:1
+msgid "(Edit)"
+msgstr ""
+
+#: functions/post-types.php:1
+msgid "No Thumbnail"
+msgstr ""
+
+#: functions/recipe-info.php:1
+msgid "Yield :"
+msgstr ""
+
+#: functions/recipe-info.php:1
+msgid "Servings :"
+msgstr ""
+
+#: functions/recipe-info.php:1
+msgid "Prep Time :"
+msgstr ""
+
+#: functions/recipe-info.php:1
+msgid "Cook Time :"
+msgstr ""
+
+#: functions/recipe-info.php:1
+msgid "Ready In :"
+msgstr ""
+
+#: functions/send-message.php:23 functions/send-message.php:25
+msgid "You have Received a message from "
+msgstr ""
+
+#: functions/send-message.php:28
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: functions/send-message.php:33
+msgid "You can contact "
+msgstr ""
+
+#: functions/send-message.php:35
+msgid " via email, "
+msgstr ""
+
+#: functions/send-message.php:43
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: functions/send-message.php:47
+msgid "***ERROR*** Message Not Sent. Try Again!"
+msgstr ""
+
+#: functions/send-message.php:55
+msgid "Message Sending Failed!"
+msgstr ""
+
+#: functions/shortcodes/typography.php:41
+msgid "No Ingredients Found ! "
+msgstr ""
+
+#: functions/shortcodes/typography.php:65
+msgid "Method"
+msgstr ""
+
+#: functions/shortcodes/typography.php:76
+msgid "Step "
+msgstr ""
+
+#: functions/shortcodes/typography.php:82
+msgid "No Steps Found ! "
+msgstr ""
+
+#: functions/slide-customized.php:1
+msgid "Recipe Post ID"
+msgstr ""
+
+#: functions/slide-customized.php:1
+msgid "Slider Image"
+msgstr ""
+
+#: functions/slide-customized.php:1
+msgid "Slogan Text"
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+msgid "Show Archives from Recipes or from Blog."
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+msgid "Food Recipe: Custom Archive"
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+msgid "Archives"
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+#: functions/widgets/news-and-events.php:1
+#: functions/widgets/recent-recipe-footer-widget.php:1
+#: functions/widgets/recipe-tabs-widget.php:1
+#: functions/widgets/recipe-types-widget.php:1
+#: functions/widgets/twitter-footer-widget.php:1
+#: functions/widgets/weekly-special-widget.php:71
+msgid "Widget Title"
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+msgid "Archives Type"
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+msgid "Yearly Archives"
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+msgid "Monthly Archives"
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+msgid "Weekly Archives"
+msgstr ""
+
+#: functions/widgets/custom-archive-widget.php:1
+msgid "Daily Archives"
+msgstr ""
+
+#: functions/widgets/footer-info-widget.php:1
+msgid "This widget is to put Company or Personal Information along with logo."
+msgstr ""
+
+#: functions/widgets/footer-info-widget.php:1
+msgid "Food Recipe: Footer Info Widget"
+msgstr ""
+
+#: functions/widgets/footer-info-widget.php:1
+msgid "Read more About Us"
+msgstr ""
+
+#: functions/widgets/footer-info-widget.php:1
+msgid "Footer Logo URL"
+msgstr ""
+
+#: functions/widgets/footer-info-widget.php:1
+msgid "Company Info"
+msgstr ""
+
+#: functions/widgets/footer-info-widget.php:1
+msgid "Readmore Button URL"
+msgstr ""
+
+#: functions/widgets/homepage-ad-widget.php:1
+msgid ""
+"This widget is for advertisment on homepage. Image Propotions: Width: 642px; "
+"Height: 79px;"
+msgstr ""
+
+#: functions/widgets/homepage-ad-widget.php:1
+msgid "Food Recipe: Homepage Advertisement"
+msgstr ""
+
+#: functions/widgets/homepage-ad-widget.php:1
+msgid "Advertisement Target URL"
+msgstr ""
+
+#: functions/widgets/homepage-ad-widget.php:1
+msgid "Advertisement Image URL"
+msgstr ""
+
+#: functions/widgets/news-and-events.php:1
+msgid "Show Latest News and Events from Blog."
+msgstr ""
+
+#: functions/widgets/news-and-events.php:1
+msgid "Food Recipe: News And Events"
+msgstr ""
+
+#: functions/widgets/news-and-events.php:1
+#: functions/widgets/weekly-special-widget.php:52 inc/standard-post.php:26
+msgid "more"
+msgstr ""
+
+#: functions/widgets/news-and-events.php:1
+msgid "News and Events"
+msgstr ""
+
+#: functions/widgets/news-and-events.php:1
+#: functions/widgets/recent-recipe-footer-widget.php:1
+msgid "Number of Posts"
+msgstr ""
+
+#: functions/widgets/news-and-events.php:1
+#: functions/widgets/recent-recipe-footer-widget.php:1
+msgid "Number of Words"
+msgstr ""
+
+#: functions/widgets/recent-recipe-footer-widget.php:1
+msgid "This widget show recent recipes from all recipes."
+msgstr ""
+
+#: functions/widgets/recent-recipe-footer-widget.php:1
+msgid "Food Recipe: Recent Recipes Widget"
+msgstr ""
+
+#: functions/widgets/recent-recipe-footer-widget.php:1
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Recent Recipes"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Show Recent or Popular or Random Recipes in Tabs with thumbnail."
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Food Recipe: Tabs for Recipes"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "MISC Recipes"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Recent"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Popular"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "Random"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "First Tab Title"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Second Tab Title"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Third Tab Title"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "First Tab Posts View"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Most Popular Posts"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Random Recipes"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Second Tab Posts View"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Third Tab Posts View"
+msgstr ""
+
+#: functions/widgets/recipe-tabs-widget.php:1
+msgid "Most Popular Recipes"
+msgstr ""
+
+#: functions/widgets/recipe-types-widget.php:1
+msgid "Show List of Recipe Types."
+msgstr ""
+
+#: functions/widgets/recipe-types-widget.php:1
+msgid "Food Recipe: Recipe Types"
+msgstr ""
+
+#: functions/widgets/recipe-types-widget.php:1 header.php:1
+msgid "Recipe Types"
+msgstr ""
+
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+msgid "Show Recipes from selected Cousins."
+msgstr ""
+
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "FoodRecipes: Recent Recipes Slider"
+msgstr ""
+
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "Title"
+msgstr ""
+
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+msgid "Select Cuisines"
+msgstr ""
+
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "Sort them by"
+msgstr ""
+
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "Most Popular"
+msgstr ""
+
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "Most Recent"
+msgstr ""
+
+#: functions/widgets/recipes-slider-cousin-widget.php:1
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "Number of posts to display"
+msgstr ""
+
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "Show Recipes from selected Recipe Types."
+msgstr ""
+
+#: functions/widgets/recipes-slider-recipe-type-widget.php:1
+msgid "Select Recipe Type"
+msgstr ""
+
+#: functions/widgets/sidebar-ad-widget.php:1
+msgid ""
+"This widget is for advertisment on sidebar. Image Propotions: Width: 253px; "
+"Height: 209px; "
+msgstr ""
+
+#: functions/widgets/sidebar-ad-widget.php:1
+msgid "Food Recipe: Sidebar Ad"
+msgstr ""
+
+#: functions/widgets/sidebar-ad-widget.php:1
+msgid "Ad Link URL"
+msgstr ""
+
+#: functions/widgets/sidebar-ad-widget.php:1
+msgid "Ad Image URL"
+msgstr ""
+
+#: functions/widgets/twitter-footer-widget.php:1
+msgid "This widget shoes latest tweets from given Twitter ID"
+msgstr ""
+
+#: functions/widgets/twitter-footer-widget.php:1
+msgid "Food Recipe: Twitter Widget"
+msgstr ""
+
+#: functions/widgets/twitter-footer-widget.php:1
+msgid "Twitter ID"
+msgstr ""
+
+#: functions/widgets/twitter-footer-widget.php:1
+msgid "Number of Tweets"
+msgstr ""
+
+#: functions/widgets/twitter-footer-widget.php:1
+msgid "Consumer Key"
+msgstr ""
+
+#: functions/widgets/twitter-footer-widget.php:1
+msgid "Consumer Secret"
+msgstr ""
+
+#: functions/widgets/twitter-footer-widget.php:1
+msgid "Access Token"
+msgstr ""
+
+#: functions/widgets/twitter-footer-widget.php:1
+msgid "Access Token Secret"
+msgstr ""
+
+#: functions/widgets/weekly-special-widget.php:8
+msgid "Show one weekly special recipe"
+msgstr ""
+
+#: functions/widgets/weekly-special-widget.php:9
+msgid "Food Recipe: Weekly Special Recipe"
+msgstr ""
+
+#: functions/widgets/weekly-special-widget.php:53
+msgid "Read More"
+msgstr ""
+
+#: functions/widgets/weekly-special-widget.php:64
+msgid "Weekly Special"
+msgstr ""
+
+#: functions/widgets/weekly-special-widget.php:76
+msgid "Weekly Special Recipe"
+msgstr ""
+
+#: header.php:1
+msgid "Recipe Search"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:172
+#: inc/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1950
+#: inc/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1950
+#: inc/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/common-taxonomy.php:29
+msgid "No Recipe Found !"
+msgstr ""
+
+#: inc/cook-info.php:1
+msgid "More From This Chef &raquo;"
+msgstr ""
+
+#: inc/more-recipes-loop.php:1
+msgid "Related Recipes:"
+msgstr ""
+
+#: inc/nutritional-info.php:1
+msgid "Nutritional Info"
+msgstr ""
+
+#: inc/nutritional-info.php:1
+msgid "This information is per serving."
+msgstr ""
+
+#: inc/rating.php:1
+msgid "Average Member Rating"
+msgstr ""
+
+#: inc/rating.php:1
+msgid "Rate this recipe"
+msgstr ""
+
+#: inc/rating.php:1
+msgid "You have already Rated."
+msgstr ""
+
+#: inc/rating.php:1
+msgid "people"
+msgstr ""
+
+#: inc/rating.php:1
+msgid "rated this recipe"
+msgstr ""
+
+#: inc/recipe-post.php:1 inc/recipe-single-template-1.php:1
+#: inc/recipe-single-template-2.php:1 inc/recipe-single-template-fvid.php:82
+msgid " Recipe Type: "
+msgstr ""
+
+#: inc/recipe-post.php:1
+msgid " Cuisine: "
+msgstr ""
+
+#: inc/recipe-post.php:1 sliders/right-info-slider.php:1
+msgid "Average Rating:"
+msgstr ""
+
+#: inc/recipe-post.php:1 inc/standard-post.php:28 sliders/basic-slider.php:1
+#: sliders/right-info-slider.php:1
+msgid "Read more"
+msgstr ""
+
+#: inc/recipe-single-template-1.php:1 inc/recipe-single-template-2.php:1
+#: inc/recipe-single-template-fvid.php:32
+msgid "Cuisine: "
+msgstr ""
+
+#: inc/recipe-single-template-1.php:1 inc/recipe-single-template-2.php:1
+#: inc/recipe-single-template-fvid.php:35
+msgid " Course: "
+msgstr ""
+
+#: inc/recipe-single-template-1.php:1 inc/recipe-single-template-2.php:1
+#: inc/recipe-single-template-fvid.php:38
+msgid "Skill Level: "
+msgstr ""
+
+#: inc/recipe-single-template-1.php:1 inc/recipe-single-template-2.php:1
+#: inc/recipe-single-template-fvid.php:83
+msgid "Tags: "
+msgstr ""
+
+#: inc/recipe-single-template-1.php:1 inc/recipe-single-template-2.php:1
+#: inc/recipe-single-template-fvid.php:84
+msgid " Ingredients: "
+msgstr ""
+
+#: inc/recipe-single-template-1.php:1 inc/recipe-single-template-2.php:1
+#: inc/recipe-single-template-fvid.php:120
+msgid "Recipe Comments "
+msgstr ""
+
+#: inc/recipe-single-template-2.php:1
+msgid "No more images found for this recipe!"
+msgstr ""
+
+#: inc/standard-post.php:3
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: inc/standard-post.php:4
+msgid "By: "
+msgstr ""
+
+#: inc/standard-post.php:4
+msgid "On: "
+msgstr ""
+
+#: inc/standard-post.php:4 single.php:1
+msgid "Category"
+msgstr ""
+
+#: index.php:1
+msgid "No Post Found !"
+msgstr ""
+
+#: meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:100 meta-box/inc/fields/file.php:137
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:101 meta-box/inc/fields/file.php:138
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:83
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:70
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:106
+#: meta-box/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:107
+#: meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:70 meta-box/inc/fields/thickbox-image.php:34
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:66 meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: page.php:1 template-recipe-submit.php:1
+msgid "Last Update:"
+msgstr ""
+
+#: page.php:1
+msgid "Pages "
+msgstr ""
+
+#: search.php:1
+msgid "Search Results For"
+msgstr ""
+
+#: search.php:1
+msgid "No Result Found !"
+msgstr ""
+
+#: single.php:1
+msgid "By"
+msgstr ""
+
+#: single.php:1
+msgid "Pages &nbsp;"
+msgstr ""
+
+#: single.php:1
+msgid "No Post Found"
+msgstr ""
+
+#: sliders/accordion-slider.php:1 sliders/basic-slider.php:1
+#: sliders/nivo-slider.php:1 sliders/right-info-slider.php:1
+#: sliders/thumb-slider.php:1
+msgid ""
+"Please add slides to your selected slider in theme options. Follow "
+"documentation for more detail."
+msgstr ""
+
+#: taxonomy-course.php:1
+msgid "Recipes With Course: "
+msgstr ""
+
+#: taxonomy-cuisine.php:1
+msgid "Recipes From Cuisine: "
+msgstr ""
+
+#: taxonomy-ingredient.php:1
+msgid "Recipes Using Ingredient: "
+msgstr ""
+
+#: taxonomy-recipe_type.php:1
+msgid "Recipe Type: "
+msgstr ""
+
+#: taxonomy-skill_level.php:1
+msgid "Recipe Skill Level: "
+msgstr ""
+
+#: template-contact.php:1
+msgid "* Enter a valid name."
+msgstr ""
+
+#: template-contact.php:1
+msgid "* Enter valid email address."
+msgstr ""
+
+#: template-contact.php:1
+msgid "* You must enter message."
+msgstr ""
+
+#: template-contact.php:1
+msgid "Send Now"
+msgstr ""
+
+#: template-home-recent.php:1
+msgid "Latest"
+msgstr ""
+
+#: template-home-recent.php:1
+msgid "Recipes"
+msgstr ""
+
+#: template-home-recent.php:1 template-home.php:1
+msgid "...more"
+msgstr ""
+
+#: template-home.php:1
+msgid "What's"
+msgstr ""
+
+#: template-home.php:1
+msgid "Hot"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Logout"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Recipe Title"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Short Description"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Recipe Content"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Featured Image"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Image size must be more than 575px in width and 262px in height."
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Use + button on the right to add new ingredient."
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Steps"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Use + button on the right to add new step."
+msgstr ""
+
+#: template-recipe-submit.php:1 theme-options.php:1
+msgid "Yes"
+msgstr ""
+
+#: template-recipe-submit.php:1 theme-options.php:1
+msgid "No"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid ""
+"A Video Based recipe does not display attached images and only display a "
+"video at top."
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid ""
+"Provide the video embed code and <strong>Modify the width attribute to 575px "
+"and height attribute to 262px.</strong>"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid ""
+"Specify the time in minutes and value greater than 60 will be automatically "
+"displayed in hours."
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Tags"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Tags keywords should all be in lowercase and separated by commas"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Recipe Type"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "None"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Cuisine"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Course"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Skill Level"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Submit Recipe"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Thanks for Submit!"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "We will publish your Recipe after Review."
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Login"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Sign Up"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Forgot Password"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "User Name"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Password"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Remember me"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Login!"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Username"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Email"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Username or Email"
+msgstr ""
+
+#: template-recipe-submit.php:1
+msgid "Reset my password"
+msgstr ""
+
+#: template-recipes-listing.php:1
+msgid "No Recipes Found"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Help"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Home Page"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Styles"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Left Image Slider"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Basic Slider"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Nivo Slider"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Thumbnail Slider"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Accordion Slider"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Recipe"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Blog"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Users Listing"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Contact Options"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Footer"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Header Logo"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Logo of your site."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Favicon"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Upload your favicon in PNG format."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select Home Page Slider"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select the Slider Type from given list."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Number of recipe types you want to show under main menu."
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Provide number for recipe types you want to show on the right side of search "
+"field under main menu. Leaving it empty will show all available terms. Term "
+"with no recipe assigned will be skipped."
+msgstr ""
+
+#: theme-options.php:1
+msgid "First Whats Hot Recipe"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select first item for whats hot area"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Second Whats Hot Recipe"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select second item for whats hot area"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Third Whats Hot Recipe"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select third item for whats hot area"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Fourth Whats Hot Recipe"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select fourth item for whats hot area"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Slider Statement"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Enter statement for slider."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Give your required recipe post IDs for each slide."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select top recipe type view type"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select if you want to show recipe most rated or high in rating."
+msgstr ""
+
+#: theme-options.php:1
+msgid "High In Rating"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Most Rated"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Enter Slider Heading Statement"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Select Images and recipe post IDs to show in Basic Slider. Required "
+"dimension is: width 905px and height 386px"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Nivo Image Slider"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Select Images for Nivo Slider and give Recipe Post IDs. Required dimension "
+"is: width 905px and height 370px"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Thumbnail Slider Images"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Add images for thumbnail slider. Required dimension is: width 905px and "
+"height 370px"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Accordion Slider Images"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Add images for thumbnail slider. Required dimension is: width 740px and "
+"height 425px"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Copyright Statement"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Enter copyright statement for footer"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Designer and Developer Statement"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Enter Designer and Developter Statement"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Recipes Per Page (number only)"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Enter the number of recipes you want to show on recipe listing page. Default "
+"value is 6."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select Single Recipe Template Type"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select from the options how you want to show your single recipe page."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Recipe Template with Sidebar"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Recipe Template Full Width"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Recipe Template With Full Width Video"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Color Skins"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select color skin from the given options."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Default"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Blue"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Orange"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Red"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Quick CSS Box"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Show Social icons on Single Recipe Page"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Select if you want to Show or Hide social icons at the end of each single "
+"recipe."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Show"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Hide"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Show Rating for Recipe post"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Select if you want to Show or Hide Rating for recipe post."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Show Social icons on Single Post Page"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Select if you want to enable or disable social icons at the end of each post "
+"single page."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Do you want to open blog post thumbnail in lightbox?"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Select \"Enable\" to show blog post image on single post page in lightbox on "
+"click."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Enable"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Disable"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Do you want to open recipe thumbnail in lightbox?"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Select \"Enable\" to show recipe thumbnail image on single recipe page in "
+"lightbox on click."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Email Address for Recipe Submit Notification"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Provide email address that will receive email notification on recipe "
+"submission. If you do not want to receive notification, then leave this "
+"field empty."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Provide head chef or team manager id for users listing"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Provide ID for head chef or team manager for users listing template. It will "
+"appear individually before users listings and will be skipped from listing."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Do you want to include subscribers in users listing."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Google  Map"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Map Latitude"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Enter Google Map Latitude for your place. You can get Latitude Value From"
+"\thttp://itouchmap.com/latlong.html"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Map Longitude"
+msgstr ""
+
+#: theme-options.php:1
+msgid ""
+"Enter Google Map Longitude for your place. You can get Longitude Value From"
+"\thttp://itouchmap.com/latlong.html"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Map Zoom Level"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Enter Google Map Zoom Level"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Contact Form Heading"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Give a heading to your contact form."
+msgstr ""
+
+#: theme-options.php:1
+msgid "Contact Email Address"
+msgstr ""
+
+#: theme-options.php:1
+msgid "Enter an email address that will recieve contact form messages."
+msgstr ""
