@@ -614,3 +614,11 @@
     #left-area.users-listing .social { text-align: center; }
     #left-area.users-listing .author-wrap { width: auto; }
 }
+
+
+#left-area .post .sd-content ul li {
+ background: none;
+ padding: 0;
+}
+
+
