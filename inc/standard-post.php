@@ -2,7 +2,7 @@
 								
 										<h1 class="post-title"><a href="<?php the_permalink(); ?>" rel="bookmark" title="<?php printf(__('Permanent Link to %s', 'FoodRecipe'), get_the_title()); ?>"><?php the_title(); ?></a></h1>
 										<p class="meta"><?php _e('By: ', 'FoodRecipe'); the_author_posts_link(); ?> <span>|</span> <span class="comments"><?php comments_popup_link(__('0 Comments', 'FoodRecipe'), __('1 Comment', 'FoodRecipe'), __('% Comments', 'FoodRecipe')); ?></span> <span>|</span> <?php _e('On: ', 'FoodRecipe'); the_time('F j, Y'); ?> <span>|</span> <?php _e('Category', 'FoodRecipe'); ?>: <span class="cats"><?php the_category(', '); ?></span></p>
-										<?php 
+                                        <?php 
 											if(has_post_thumbnail()) 
 											{
                                                 $image_id = get_post_thumbnail_id();
@@ -25,5 +25,6 @@
 										?>
                                          <a href="<?php the_permalink(); ?>" class=" res-more"><?php _e('more', 'FoodRecipe'); ?></a>
                                         </p>
+                                        <div class="tags">                                		    <?php the_tags(); ?>                                        </div><!-- end of tags div -->
 										<a href="<?php the_permalink(); ?>" class="readmore rightbtn"><?php _e('Read more', 'FoodRecipe'); ?></a>
 								</div><!-- end of post div -->
